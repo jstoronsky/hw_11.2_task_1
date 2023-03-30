@@ -12,4 +12,4 @@ def super_title_letters(word=input("Введите слово: ")):
 
 print(title_letters())
 print(super_title_letters())
-
+# hotfix hotfix hotfix
